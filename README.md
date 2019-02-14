@@ -1,5 +1,5 @@
 # serverless-plugin-lambda-xray
-
+[![Known Vulnerabilities](https://snyk.io/test/github/imilkovski/serverless-plugin-lambda-xray/badge.svg?targetFile=package.json)](https://snyk.io/test/github/imilkovski/serverless-plugin-lambda-xray?targetFile=package.json)
 [![GitHub version](https://badge.fury.io/gh/imilkovski%2Fserverless-plugin-lambda-xray.svg)](https://badge.fury.io/gh/imilkovski%2Fserverless-plugin-lambda-xray)
 [![CircleCI](https://circleci.com/gh/imilkovski/serverless-plugin-lambda-xray/tree/master.svg?style=svg)](https://circleci.com/gh/imilkovski/serverless-plugin-lambda-xray/tree/master)
 [![Coverage Status](https://coveralls.io/repos/github/imilkovski/serverless-plugin-lambda-xray/badge.svg?branch=master)](https://coveralls.io/github/imilkovski/serverless-plugin-lambda-xray?branch=master)

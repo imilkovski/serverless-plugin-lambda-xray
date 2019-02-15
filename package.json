@@ -4,7 +4,7 @@
   "description": "Enables AWS X-Ray for entire Serverless stack or individual functions",
   "main": "index.js",
   "engines": {
-    "node": ">=4.0"
+    "node": ">=8.12.0"
   },
   "directories": {
     "test": "test"

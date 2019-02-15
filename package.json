@@ -35,7 +35,6 @@
   "homepage": "https://github.com/imilkovski/serverless-plugin-lambda-xray#readme",
   "dependencies": {},
   "devDependencies": {
-    "babel-cli": "^6.26.0",
     "chai": "^3.5.0",
     "coveralls": "^3.0.2",
     "eslint": "^3.18.0",
